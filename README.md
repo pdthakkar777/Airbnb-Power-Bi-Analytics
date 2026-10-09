@@ -8,7 +8,7 @@ Power BI practice project analyzing Airbnb listings, pricing, ratings, host veri
 
 ## Project Objective
 
-Analyze Airbnb listings and reviews across 10 cities to understand property distribution, pricing, customer ratings, host verification, and seasonal review patterns.
+Analyse Airbnb listings and reviews across 10 cities to understand property distribution, pricing, customer ratings, host verification, and seasonal review patterns.
 
 ## Dashboard Preview
 
